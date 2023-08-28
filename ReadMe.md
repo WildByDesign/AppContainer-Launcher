@@ -33,7 +33,7 @@ Original Privexec: https://github.com/M2Team/Privexec
 
 ### Identifying LPAC Processes
 
-System Informer (previously Process Hacker) latest Nightly builds can identify LPAC as well. On the Token tab, go to Advanced to bring up the Token Properties and go to the Attributes tab. LPAC can be identified with the WIN://NOALLAPPPKG security attribute.
+System Informer (previously Process Hacker) latest Nightly builds can identify LPAC as well. On the Token tab, go to Advanced to bring up the Token Properties and go to the Container tab. Capabilities tab has important details as well.
 
 
 ## LICENSE
