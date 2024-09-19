@@ -4,12 +4,7 @@
 
 ### Download:
 
-https://github.com/WildByDesign/AppContainer-Launcher/releases/download/5.1.0/AppExec-5.1.0.7z
-
-
-### Source Code:
-
-https://github.com/WildByDesign/AppContainer-Launcher/releases/download/5.1.0/AppExec-Source-5.1.0.7z
+[Latest Release](https://github.com/WildByDesign/AppContainer-Launcher/releases/latest)
 
 
 ### Screenshot:
